@@ -1,0 +1,15 @@
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\bean\Employee.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\bean\EmployeeExample.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\bean\DepartmentExample.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\dao\DepartmentMapper.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\utils\Msg.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\test\MBGTest.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\service\DepartmentService.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\test\ServiceTest.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\bean\Department.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\controller\DepartmentController.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\controller\EmployeeController.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\service\EmployeeService.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\dao\EmployeeMapper.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\test\MvcTest.java
+D:\Java\JavaTest\ssm-crud\src\main\java\com\it888\crud\test\MapperTest.java
